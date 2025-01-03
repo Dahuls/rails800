@@ -1,0 +1,4 @@
+production:
+  gateway:
+    name: dh_test_gateway_test_9000
+    username: ubuntu
