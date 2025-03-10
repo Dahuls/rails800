@@ -1,5 +1,5 @@
-  mysql:
-    configuration:
-      tamper_with_yml: false
+#  mysql:
+#    configuration:
+#      tamper_with_yml: false
 
 
