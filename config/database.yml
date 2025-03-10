@@ -63,3 +63,6 @@ production:
     <<: *primary_production
     database: rails800_production_cable
     migrations_paths: db/cable_migrate
+   anonymized:
+    host: zxc
+    database: my_anonymized_db
